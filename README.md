@@ -10,7 +10,9 @@ Estudiante de ASIR (Administración de sistemas informáticos en red) en CEAC Bu
 -Nací el 02/03/2008, por tanto tengo 18 años.
 
 -Correo electrónico:
+
     -Colegio: iraida.martinez.luna@alu.ceacfp.es
+    
     -Personal: lunairaida08@gmail.com
 
 -Teléfono móvil: 644181702
